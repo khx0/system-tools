@@ -32,5 +32,5 @@ for re-joining / resuming (re-attaching) the session `<SESSION_NAME>`.
 6) Close screen session.
 To quit a currently active (attached) screen session, type
 ```bash
-exit.
+exit
 ```
