@@ -27,7 +27,7 @@ This should list you the session `<SESSION_NAME>` as a currently still running b
 ```bash
 screen -r <SESSION_NAME>
 ```
-for the re-joining / resuming (re-attaching) the session `<SESSION_NAME>`.
+for re-joining / resuming (re-attaching) the session `<SESSION_NAME>`.
 
 6) Close screen session.
 To quit a currently active (attached) screen session, type
